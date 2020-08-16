@@ -13,6 +13,8 @@ Things I Learned.
 7.	Wrote a move forward script that is attached onto the animals prefabs that tells the animals where to move to.
 8.	Wrote a detect collisions script that uses the OnTriggerEnter method and destroys the animal along with the food that collided with it. 
 9.	Wrote a destroy out of bound script that will eliminate any objects that move past the determined points within the logic of the script. 
+
+
 Things I want to Add
 1.	Game Over Screen
 2.	Pause screen
